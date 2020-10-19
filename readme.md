@@ -42,3 +42,10 @@ tail -3 for-loop.sh (displays bottom 3 lines)
 less for-loop.sh (displays less number of lines)
 
 ```
+
+Use Git add, commit and push to stage files and help them reach your remote repository, eg. GitHub
+Python enables you to use the shell even more effectively by allowing you to execute more complex logic with a series of simpler statements.
+Python uses the print command the way shell uses echo to print out texts/numbers etc.
+You can install multiple versions of python on your machine. Python has 2 main versions, 2 and 3. You can have both together.
+Grep will allow you to search for string patterns with a variety of options. Options include the ability to search with the case insensitive option on. You can combine grep with head, tail or cat as well.
+In conclusion Unix is not just about shell scripts and bash commands but also a set of other tools bolted on.
